@@ -1,0 +1,5 @@
+org\example\ProductionLine.class
+org\example\App.class
+org\example\SedanProductionLine.class
+org\example\CabrioletProductionLine.class
+org\example\AutoFactory.class
